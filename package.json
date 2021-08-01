@@ -50,7 +50,7 @@
     "qrcode-reader": "^1.0.4",
     "uuid": "^3.4.0",
     "vue": "^2.6.12",
-    "vue2-dragula": "^2.5.4",
+    "vue2-dragula": "^2.5.5",
     "vuex": "^3.4.0"
   }
 }
