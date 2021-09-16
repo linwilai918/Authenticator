@@ -49,7 +49,7 @@
     "qrcode-generator": "^1.4.4",
     "qrcode-reader": "^1.0.4",
     "uuid": "^3.4.0",
-    "vue": "^2.6.12",
+    "vue": "^2.6.14",
     "vue2-dragula": "^2.5.4",
     "vuex": "^3.4.0"
   }
